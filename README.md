@@ -20,20 +20,21 @@ This project was created as part of my learning journey to understand Java funda
 ## 🖥️ Example Usage
 
 ```
-===============================
-       SIMPLE CASHIER APP
-===============================
-1. View Products
-2. Add to Cart
-3. View Cart
-4. Remove from Cart
-5. Checkout
-6. Exit
-Enter your choice: 1
-
-Available Products:
-1. Coffee - Rp 15,000
-2. Tea - Rp 10,000
+===== Cashier Rare's Store App  =====
+==== MENU ====
+1. Show all products
+2. Add product to cart
+3. Check cart
+4. Check out
+5. Add Product
+6. Remove Product
+x. Exit
+> Select an option : 1
+=================================================
+All products
+1. Indomie - Rp 3,500.00
+2. Teh Botol - Rp 4,000.00
+3. Sabun Mandi - Rp 2,500.00
 ```
 
 ---
